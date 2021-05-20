@@ -1,0 +1,60 @@
+.content{
+    background-image: url("Corona jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.index {
+  margin: 0px;
+  padding: 0px;
+  margin: 0px;
+  padding: 0px;
+  background-image:url("Corona.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  );
+.texts{
+    margin-top: 100px;
+    font-weight: bolder;
+    color:Red;
+}
+.about{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+body{
+    background-image:url("donate.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 100vh;
+}
+.donate{
+    background-image:url("donate.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 100vh;
+}
+.taggs{
+    font-weight: bolder;
+}
+footer{
+    width: 100%;
+	left: 0px;
+	bottom: 0px;
+}
+#btn-btn {
+  margin: 230px 230px;
+  font-size: 20px;
+  background-color:light-red;
+  padding: 4px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+    
